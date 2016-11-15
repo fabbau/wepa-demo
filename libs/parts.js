@@ -87,7 +87,7 @@ exports.devServer = function(options) {
       inline: true,
 
       // Display only errors to reduce the amount of output.
-      stats: 'errors-only',
+      //stats: 'errors-only',
 
       // Parse host and port from env to allow customization.
       //

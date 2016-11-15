@@ -11,7 +11,7 @@ See [SurviveJS - React](http://survivejs.com/react/introduction/) for the book.
 
 ## Advanced Commands
 
-Beyond development, the boilerplate supports other tasks listed below:
+Beyond developmentt, the boilerplate supports other tasks listed below:
 
 * `npm run build` - Generates a production build below `build/`. See the [Building with Webpack](http://survivejs.com/webpack/building-with-webpack/) part for more.
 * `npm run deploy` - Deploys the contents of the `build/` directory below the **gh-pages** branch.
